@@ -10,8 +10,6 @@ Arquivo `main.py` é o arquivo principal do projeto. Ele faz o seguinte:
 - Obter as detecções como DataFrame com o método `results.pandas().xyxy[0]`
 - Desenhar as caixas na imagem original com o método `results.render()`
 - Exibir a imagem com as detecções com o método `cv2.imshow('Detect cars with YoLov5', img)`
-- Aguardar a entrada do usuário com o método `cv2.waitKey(0)`
-- Fechar todas as janelas com o método `cv2.destroyAllWindows()`
 
 ## 2. euristica.py 
 
