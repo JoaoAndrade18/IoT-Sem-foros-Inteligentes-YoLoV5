@@ -24,7 +24,7 @@ O arquivo `euristica.py` é um exemplo de código que faz a euristica de um sem�
 
 ## 3. semaforo-arduino.c++
 
-O arquivo `semaforo-arduino.c` é um exemplo de código que controla um semáforo com um Arduino. Ele faz o seguinte:
+O arquivo `semaforo-arduino.c++` é um exemplo de código que controla um semáforo com um Arduino. Ele faz o seguinte:
 
 - Definir a variável principal `data` que define quais semáforos abrir
 - Definir as variaveis de pinos `semaforoNorteSul` e `semaforoLesteOeste` que armazenam o estado verde do semáforo Norte-Sul e Leste-Oeste
