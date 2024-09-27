@@ -32,4 +32,6 @@ O arquivo `semaforo-arduino.c++` é um exemplo de código que controla um semáf
 - Configurar os pinos de saída para os semáforos com o método `pinMode`
 - Usar uma condição `if` para controlar o semáforo Norte-Sul e Leste-Oeste
 
+Obs: os semafors no simulador com simbolos signifcam que a corrente esta muito alta e pode danificar o mesmo, mas como é um simulador, não há risco.
+
 ## Em /prints estão os resultados em imagens sobre o projeto
